@@ -71,7 +71,7 @@ export function AddressSelector({ initialData, onAddressConfirm }: AddressSelect
   const searchTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const savedAddresses = [
-    { type: "home" as const, label: "Home", address: "123, Main Street, Mumbai - 400001" },
+    { type: "home" as const, label: "Home", address: "Ghaziabad, Uttar Pradesh - 201009" },
     { type: "office" as const, label: "Office", address: "456, Business Park, Andheri East" },
   ];
 

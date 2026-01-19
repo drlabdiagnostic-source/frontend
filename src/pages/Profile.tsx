@@ -31,9 +31,9 @@ export default function Profile() {
     gender: "Male",
     age: "32",
     bloodGroup: "O+",
-    address: "123, Main Street, Sector 15",
-    city: "Mumbai",
-    pincode: "400001",
+    address: "Ghaziabad",
+    city: "Uttar Pradesh",
+    pincode: "201009",
   });
 
   const handleSave = () => {

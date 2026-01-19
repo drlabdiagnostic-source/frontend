@@ -9,7 +9,7 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    details: ["+91 93659 90256", "+91 93659 90256"],
+    details: ["+91 93659 90256"],
   },
   {
     icon: Mail,
@@ -207,8 +207,7 @@ const Contact = () => {
                     </div>
                     <h3 className="text-xl font-semibold mb-2">Find Us Here</h3>
                     <p className="text-muted-foreground mb-6">
-                      123 Health Street, Medical District<br />
-                      City - 400001
+                      Ghaziabad, Uttar Pradesh - 201009
                     </p>
                     <a
                       href="https://maps.google.com"
