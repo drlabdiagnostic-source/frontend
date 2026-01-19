@@ -75,9 +75,9 @@ export function Navbar() {
 
           {/* Desktop Actions */}
           <div className="hidden lg:flex items-center gap-3">
-            <a href="tel:+1800123456" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors">
+            <a href="tel:+919365990256" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors">
               <Phone className="w-4 h-4" />
-              <span className="hidden xl:inline">1800-123-456</span>
+              <span className="hidden xl:inline">+91 9365990256</span>
             </a>
             
             {isLoggedIn ? (
@@ -184,11 +184,11 @@ export function Navbar() {
               <div className="my-2 border-t border-border" />
               
               <a 
-                href="tel:+1800123456" 
+                href="tel:+919365990256" 
                 className="px-4 py-3 flex items-center gap-2 text-sm text-muted-foreground hover:text-primary"
               >
                 <Phone className="w-4 h-4" />
-                1800-123-456
+                +91 9365990256
               </a>
               
               {isLoggedIn ? (

@@ -9,17 +9,17 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    details: ["1800-123-456 (Toll Free)", "+91 98765 43210"],
+    details: ["+91 93659 90256", "+91 93659 90256"],
   },
   {
     icon: Mail,
     title: "Email",
-    details: ["info@drdiagnosticlab.com", "support@drdiagnosticlab.com"],
+    details: ["drlabdiagnostic@gmail.com", "support@drdiagnosticlab.com"],
   },
   {
     icon: MapPin,
     title: "Address",
-    details: ["123 Health Street", "Medical District, City - 400001"],
+    details: ["Ghaziabad", ", Uttar Pradesh - 201009"],
   },
   {
     icon: Clock,
