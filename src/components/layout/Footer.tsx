@@ -69,15 +69,15 @@ export function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary shrink-0 mt-0.5" />
-                <span className="text-background/70 text-sm">123 Health Street, Medical District, City - 400001</span>
+                <span className="text-background/70 text-sm">Ghaziabad, Uttar Pradesh - 201009</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary shrink-0" />
-                <a href="tel:+1800123456" className="text-background/70 hover:text-primary transition-colors text-sm">1800-123-456</a>
+                <a href="tel:+919365990256" className="text-background/70 hover:text-primary transition-colors text-sm">+91 9365990256</a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary shrink-0" />
-                <a href="mailto:info@drdiagnosticlab.com" className="text-background/70 hover:text-primary transition-colors text-sm">info@drdiagnosticlab.com</a>
+                <a href="mailto:drlabdiagnostic@gmail.com" className="text-background/70 hover:text-primary transition-colors text-sm">drlabdiagnostic@gmail.com</a>
               </li>
             </ul>
           </div>
