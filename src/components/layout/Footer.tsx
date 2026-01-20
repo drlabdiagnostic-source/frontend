@@ -85,7 +85,7 @@ export function Footer() {
 
         <div className="border-t border-background/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-background/50 text-sm">
-            © 2024 Dr. Diagnostic Lab. All rights reserved.
+            © 2026 Dr. Diagnostic Lab. All rights reserved.
           </p>
           <div className="flex gap-6">
             <Link to="/privacy" className="text-background/50 hover:text-background text-sm transition-colors">Privacy Policy</Link>
